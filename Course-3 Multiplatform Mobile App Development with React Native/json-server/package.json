@@ -1,0 +1,20 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "This a fake-server for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"json-server --host 0.0.0.0 --port 8000 ./db.json --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitanshubhavsar/Coursera-Full-Stack-Web-Development.git"
+  },
+  "author": "Mitanshu Bhavsar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitanshubhavsar/Coursera-Full-Stack-Web-Development/issues"
+  },
+  "homepage": "https://github.com/mitanshubhavsar/Coursera-Full-Stack-Web-Development#readme"
+}
